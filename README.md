@@ -1,4 +1,4 @@
-# Push Recovery on a Linear Inverted Pendulum Model of a Biped with variable velocity gait, controlled using Model Predictive Control 
+# Push Recovery on a LIPM of a Biped with variable velocity gait, controlled using MPC
 
 In this project, the 1D Linear Inverted Pendulum Model (LIPM) of a biped was controlled by a Model Predictive Controller (MPC) with a variable velocity gait. By tracking the Instantaneous Capture Point, it was possible to implement push recovery to the model. The model, and the observations are explained in better detail in the [Report](https://github.com/thathvik/Push_Reovery_LIPM_biped/blob/master/Report.pdf).
 
