@@ -6,6 +6,6 @@ This is the final project submitted for the course *Optimal and Learning Control
 
 The video below demonstrates the results from the project.
 
-https://user-images.githubusercontent.com/42662610/125011495-9229c980-e036-11eb-9c49-f8e18884df8e.mp4
+https://user-images.githubusercontent.com/42662610/125012057-88549600-e037-11eb-9e25-dec815ffc927.mp4
 
 During the first half of the video, the change in the speed of the biped can be observed. And during the second half of the video, the biped experiences a push force and it can be observed that the controller could handle the force and bring the robot back to the motion at the desired veloicity.
